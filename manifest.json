@@ -1,0 +1,12 @@
+{
+  "name": "Комора",
+  "short_name": "Комора",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F2EFE7",
+  "theme_color": "#2B5A4C",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
